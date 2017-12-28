@@ -1,0 +1,2 @@
+export TESSERACT_NAME="t4re"
+export TESSERACT_CONTAINER="tesseractshadow/tesseract4re"
